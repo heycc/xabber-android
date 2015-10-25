@@ -12,7 +12,7 @@
   <string name="disabled">禁用</string>
   <string name="manual">手动</string>
   <string name="never">从不</string>
-  <string name="required">要求</string>
+  <string name="required">必要</string>
   <string name="auto">自动</string>
   <string name="save">保存</string>
 </resources>
